@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ahmet 
+### Hi there 👋 I'm Kübra
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kubrasimsek&show_icons=true&line_height=50&theme=tokyonight" alt="My github stats" /></a>
